@@ -1,0 +1,16 @@
+[
+  {"name":"Driver","maxDistance":310,"accuracy":0.8},
+  {"name":"3-Wood","maxDistance":280,"accuracy":0.85},
+  {"name":"5-Wood","maxDistance":260,"accuracy":0.87},
+  {"name":"3-Iron","maxDistance":230,"accuracy":0.88},
+  {"name":"4-Iron","maxDistance":220,"accuracy":0.89},
+  {"name":"5-Iron","maxDistance":210,"accuracy":0.90},
+  {"name":"6-Iron","maxDistance":200,"accuracy":0.91},
+  {"name":"7-Iron","maxDistance":190,"accuracy":0.92},
+  {"name":"8-Iron","maxDistance":180,"accuracy":0.93},
+  {"name":"9-Iron","maxDistance":170,"accuracy":0.94},
+  {"name":"Pitching Wedge","maxDistance":160,"accuracy":0.95},
+  {"name":"Sand Wedge","maxDistance":130,"accuracy":0.96},
+  {"name":"Lob Wedge","maxDistance":110,"accuracy":0.97},
+  {"name":"Putter","maxDistance":30,"accuracy":0.99}
+]
