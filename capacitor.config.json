@@ -1,0 +1,6 @@
+{
+  "appId": "com.wgt.pro.ai",
+  "appName": "WGT Pro AI",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
